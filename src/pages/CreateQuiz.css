@@ -1,0 +1,64 @@
+.create{
+    width:70%;
+    margin:30px auto;
+}
+
+.create h1{
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.create input{
+
+    width:100%;
+
+    padding:12px;
+
+    margin:10px 0;
+
+    font-size:16px;
+
+}
+
+.create button{
+
+    padding:10px 20px;
+
+    margin-top:15px;
+
+    cursor:pointer;
+
+}
+
+.card{
+
+    border:1px solid lightgray;
+
+    padding:15px;
+
+    margin-top:20px;
+
+    border-radius:8px;
+
+}
+
+.save-btn{
+
+    background:green;
+
+    color:white;
+
+    border:none;
+
+    margin-top:25px;
+
+}
+
+select{
+width:100%;
+padding:10px;
+margin:10px 0;
+border:1px solid #ccc;
+border-radius:5px;
+font-size:16px;
+}

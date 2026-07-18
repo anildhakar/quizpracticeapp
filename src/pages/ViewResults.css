@@ -1,0 +1,54 @@
+.results-container{
+
+width:90%;
+
+margin:30px auto;
+
+text-align:center;
+
+}
+
+table{
+
+width:100%;
+
+border-collapse:collapse;
+
+margin-top:20px;
+
+}
+
+table th,
+table td{
+
+border:1px solid #ddd;
+
+padding:12px;
+
+}
+
+table th{
+
+background:#222;
+
+color:white;
+
+}
+
+.back-btn{
+
+margin-top:20px;
+
+padding:10px 20px;
+
+background:#222;
+
+color:white;
+
+border:none;
+
+cursor:pointer;
+
+border-radius:6px;
+
+}

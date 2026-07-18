@@ -1,0 +1,54 @@
+.result-container{
+
+display:flex;
+
+justify-content:center;
+
+align-items:center;
+
+height:100vh;
+
+background:#f4f4f4;
+
+}
+
+.result-card{
+
+background:white;
+
+padding:30px;
+
+width:350px;
+
+text-align:center;
+
+border-radius:10px;
+
+box-shadow:0 0 10px rgba(0,0,0,.2);
+
+}
+
+.result-card h1{
+
+color:green;
+
+margin:20px 0;
+
+}
+
+.result-card button{
+
+padding:12px 25px;
+
+background:#2196f3;
+
+color:white;
+
+border:none;
+
+border-radius:6px;
+
+cursor:pointer;
+
+}
+

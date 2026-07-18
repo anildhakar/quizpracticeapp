@@ -1,0 +1,30 @@
+.view-container{
+    width:80%;
+    margin:30px auto;
+}
+
+.question-card{
+    background:#fff;
+    padding:20px;
+    margin-bottom:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,.15);
+}
+
+.question-card p{
+    margin:8px 0;
+}
+
+.answer{
+    color:green;
+    font-weight:bold;
+}
+
+.back-btn{
+    padding:10px 20px;
+    border:none;
+    background:#222;
+    color:white;
+    cursor:pointer;
+    border-radius:6px;
+}
