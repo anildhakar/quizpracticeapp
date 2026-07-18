@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import "./AdminLogin.css";
 
-function AdminLogin() {
+const AdminLogin = () => {
 
   const navigate = useNavigate();
 
@@ -68,4 +68,6 @@ function AdminLogin() {
   );
 }
 
-export default AdminLogin; 
+
+
+export default AdminLogin

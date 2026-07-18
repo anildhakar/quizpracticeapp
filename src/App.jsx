@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
-import AdminLogin from "./pages/AdminLogin";
+
 import UserRegister from "./pages/UserRegister";
 import UserLogin from "./pages/UserLogin";
 
@@ -14,6 +14,7 @@ import ViewResults from "./pages/ViewResults";
 import CreateQuiz from "./pages/CreateQuiz";
 import Quiz from "./pages/Quiz";
 import Result from "./pages/Result";
+import AdminLogin from "./pages/Adminlogin";
 
 function App() {
 
@@ -25,7 +26,7 @@ function App() {
 
       <Route
         path="/admin-login"
-        element={<AdminLogin />}
+        element={<AdminLogin/>}
       />
 
       <Route
